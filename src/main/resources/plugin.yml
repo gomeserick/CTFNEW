@@ -1,0 +1,4 @@
+name: CTFGame
+version: '${project.version}'
+main: me.gomes.ctfcore.ctfgame.CTFGame
+api-version: '1.20'
